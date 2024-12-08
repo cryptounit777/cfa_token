@@ -62,7 +62,7 @@ graph TD
 git clone https://github.com/cryptounit777/cfa_token.git
 
 # Установка зависимостей
-cd forest-protection-token
+cd cfa_token
 sui move build
 
 # Конфигурация
@@ -94,7 +94,7 @@ sui client call --function create_pool --module token --package $PACKAGE_ID \
 sui move test
 
 # Запуск конкретного теста
-sui move test forest_protection_token_tests
+sui move test cfa_token_tests
 ```
 
 ## 🤝 Вклад в проект
