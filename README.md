@@ -59,7 +59,7 @@ graph TD
 ## 💻 Установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/forest-protection-token.git
+git clone https://github.com/cryptounit777/cfa_token.git
 
 # Установка зависимостей
 cd forest-protection-token
@@ -96,10 +96,6 @@ sui move test
 # Запуск конкретного теста
 sui move test forest_protection_token_tests
 ```
-
-
-## 📚 Документация
-Подробная документация доступна в [Wiki](https://github.com/your-username/forest-protection-token/wiki)
 
 ## 🤝 Вклад в проект
 Мы приветствуем вклад в развитие проекта! Пожалуйста, ознакомьтесь с нашим [руководством по содействию](CONTRIBUTING.md).
